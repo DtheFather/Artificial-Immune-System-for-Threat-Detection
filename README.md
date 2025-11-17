@@ -60,9 +60,12 @@ To test the project, follow these steps:
 
 📸 Screenshots
 ----------------
-[Placeholder for screenshot 1]
-[Placeholder for screenshot 2]
-[Placeholder for screenshot 3]
+<img width="1956" height="317" alt="image" src="https://github.com/user-attachments/assets/66c61f9a-0d84-4be3-9f45-8cdde12860c8" />
+
+<img width="1500" height="1294" alt="image" src="https://github.com/user-attachments/assets/3aa5bcfa-7948-4efb-a985-1ebdb8f27550" />
+
+<img width="601" height="336" alt="image" src="https://github.com/user-attachments/assets/1a74c00c-dbfd-46d2-83f5-c6d845606f84" />
+
 
 📦 API Reference
 ------------------
