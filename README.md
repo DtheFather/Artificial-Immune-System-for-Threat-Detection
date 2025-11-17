@@ -1,4 +1,4 @@
-🚀 Project Title & Tagline
+🚀 Artificial Immune System for Threat Detection
 ==========================
 **AI-powered Threat Detection System** 🚨
 > "Empowering cybersecurity with machine learning" 💻
